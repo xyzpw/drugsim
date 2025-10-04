@@ -1,0 +1,8 @@
+drugsim
+.vscode/
+
+# precompiled headers
+*.gch
+
+# Custom configs.
+*.json
